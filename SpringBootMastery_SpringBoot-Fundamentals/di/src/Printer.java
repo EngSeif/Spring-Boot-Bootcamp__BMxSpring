@@ -1,0 +1,5 @@
+public class Printer {
+    public void print(String message) {
+        System.out.println("Message To User: " + message);
+    }
+}
